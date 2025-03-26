@@ -1,7 +1,7 @@
 # Dylan Zamorano
 ## Datos Personales:
 
-![img](./)
+![img](./img.png)
 
 - Edad: 20 Años
 - Estudiante Universitario
